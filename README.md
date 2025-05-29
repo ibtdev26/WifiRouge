@@ -2,7 +2,6 @@
 
 A powerful Python-based RTL8720DN WiFi Deauther tool by IBTDEV
 
-CODE WONT BE OBFUSCATED IN THE NEXT UPDATE!
 
 ---
 
