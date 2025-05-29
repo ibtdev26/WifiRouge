@@ -1,6 +1,6 @@
 # WiFiRogue
 
-A powerful Python-based RTL8720DN WiFi Deauther tool by Ryan Elliott.
+A powerful Python-based RTL8720DN WiFi Deauther tool by IBTDEV
 
 ---
 
